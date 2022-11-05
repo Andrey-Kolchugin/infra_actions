@@ -1,4 +1,4 @@
-from http import HTTPStatus
+pfrom http import HTTPStatus
 
 from django.test import Client, TestCase
 
